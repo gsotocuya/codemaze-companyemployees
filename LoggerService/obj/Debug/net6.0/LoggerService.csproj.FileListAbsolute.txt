@@ -1,0 +1,15 @@
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/bin/Debug/net6.0/LoggerService.deps.json
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/bin/Debug/net6.0/LoggerService.dll
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/bin/Debug/net6.0/LoggerService.pdb
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/bin/Debug/net6.0/Contracts.dll
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/bin/Debug/net6.0/Contracts.pdb
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.csproj.AssemblyReference.cache
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfoInputs.cache
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfo.cs
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CopyComplete
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.dll
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/refint/LoggerService.dll
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/LoggerService.pdb
+/Users/grimaldo.soto/Library/Mobile Documents/com~apple~CloudDocs/workspace/CompanyEmployees/LoggerService/obj/Debug/net6.0/ref/LoggerService.dll
